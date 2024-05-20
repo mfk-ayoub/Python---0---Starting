@@ -6,8 +6,6 @@
 This project involves learning the basics of the Python Programming Language. The exercises cover various aspects of Python, including basic scripting, using packages, functions, error handling, and creating standalone programs.
 
 ### Contents
-
-`general-rules`
 - [Exercise 00 - First Python Script](#exercise-00---first-python-script)
 - [Exercise 01 - First Use of Package](#exercise-01---first-use-of-package)
 - [Exercise 02 - First Function Python](#exercise-02---first-function-python)
