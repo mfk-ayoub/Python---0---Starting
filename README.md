@@ -13,7 +13,7 @@ This project involves learning the basics of the Python Programming Language. Th
 - [Exercise 02 - First Function Python](#exercise-02---first-function-python)
 - [Exercise 03 - NULL Not Found](#exercise-03---null-not-found)
 - [Exercise 04 - The Even and the Odd](#exercise-04---the-even-and-the-odd)
-- [Additional Rules](#additional-rules)
+- ```additional-rules```
 - [Exercise 05 - First Standalone Program Python](#exercise-05---first-standalone-program-python)
 
 ### General Rules
